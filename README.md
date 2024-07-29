@@ -1,4 +1,4 @@
-# 🎈 Object Detection with logo
+# 🎈 Object Detection with YOLO
 
 Juan Felipe Rincon - Daniel Villegas
 Master Data Science & Big Data - MIOTI
